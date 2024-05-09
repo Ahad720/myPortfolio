@@ -38,6 +38,6 @@ List<ServicesUtils> servicesUtils = [
     icon: 'assets/icons/website.svg',
     description:
         "Do you have an idea for your next great website? Let's make it a reality.",
-    tool: ['Flutter', 'Html,css,js', 'PHP Laravel'],
+    tool: ['Flutter', 'Html,css,js', 'PHP Laravel', 'React Js', 'Next Js'],
   ),
 ];
